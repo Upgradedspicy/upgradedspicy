@@ -1,2 +1,1 @@
-# upgradedspicy
 # Hi there 👋
